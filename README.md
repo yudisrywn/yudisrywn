@@ -8,12 +8,12 @@ Hi there, I'm Yudi Suryawan 👋<br>I'm a Informatics and Computer Engineering E
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,mongodb,mysql,vscode,github&perline=3)](https://skillicons.dev)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kagura087&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kagura087&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kagura087&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=yudisrywn&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yudisrywn&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yudisrywn&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kagura087&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=yudisrywn&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
