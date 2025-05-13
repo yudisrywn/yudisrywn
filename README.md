@@ -4,12 +4,6 @@
 
 <img align="right" height="305" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG4waDI2Zm5ibDZ3bzFxdXdsMWE1ZHBpbXp2amg5b2RsaGcwc2diMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnAlQcGnZq9y/giphy.gif"  />
 
-# Profile Count
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/yudisrywn/count.svg?"  />
-</div>
-
 ### Music
 
 <div align="center">
