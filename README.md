@@ -3,7 +3,9 @@
 
 <div style="clear: both;"></div>
 
-<img src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif" width="400" />
+<div align="center">
+  <img height="382" src="https://media1.tenor.com/m/SzNcWJPQbBIAAAAd/anime-ayanokoji.gif"  />
+</div>
 <div style="clear: both;"></div>
 
 # 💫 About Me:
