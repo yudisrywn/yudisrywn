@@ -43,4 +43,4 @@ Hi there, I'm Yudi Suryawan 👋<br>I'm a Informatics and Computer Engineering E
 
 ![](https://github-contributor-stats.vercel.app/api?username=yudisrywn&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-<img src="https://raw.githubusercontent.com/yudisuryawan/yudisuryawan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yudisrywn/yudisrywn/output/snake.svg" alt="Snake animation" />
