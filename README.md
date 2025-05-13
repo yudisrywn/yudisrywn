@@ -8,7 +8,7 @@
 
 ###
 <br>
-# 💫 About Me:
+##  💫 About Me:
 
 Hi there, I'm Yudi Suryawan 👋<br>I'm a Informatics and Computer Engineering Education student at Semarang State University with a passion for problem-solving, technology, and mathematics. I’m diving into the world of back end development , data science, and machine learning.<br><br>🌱 What I'm Learning:<br>Improving my skills in JavaScript and Python.<br>Exploring data structures and algorithms to solve complex problems<br><br>✨ Fun Fact:<br>I'm a big fan of logical games like Sudoku and enjoy challenges that let me think outside the box!
 
