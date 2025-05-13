@@ -1,10 +1,10 @@
 ![Yudi Suryawan](img/github-header-image.png)
-<img height="382" src="https://media.giphy.com/media/PamI2MtO1DU1a/giphy.gif" />
+<img height="382" src="https://i.imgur.com/EwcOQGl.gif" />
 
 <div style="clear: both;"></div>
 
 <div align="center">
-  <img height="382" src="https://media1.tenor.com/m/SzNcWJPQbBIAAAAd/anime-ayanokoji.gif"  />
+  <img height="382" src="https://i.imgur.com/XBgxoqH.gif"  />
 </div>
 <div style="clear: both;"></div>
 
