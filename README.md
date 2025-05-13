@@ -1,8 +1,10 @@
-###
+<br clear="both">
 
 <img align="left" height="382" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBseDlkcGd6ZHQxcW9naGNwaGdvcDBjZ282ZHUxYnUybXZhaXlvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PamI2MtO1DU1a/giphy.gif"  />
 
 ###
+
+<br clear="both">
 
 <img align="right" height="305" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG4waDI2Zm5ibDZ3bzFxdXdsMWE1ZHBpbXp2amg5b2RsaGcwc2diMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnAlQcGnZq9y/giphy.gif"  />
 
@@ -56,3 +58,4 @@ Hi there, I'm Yudi Suryawan 👋<br>I'm a Informatics and Computer Engineering E
 ![](https://github-contributor-stats.vercel.app/api?username=yudisrywn&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 <img src="https://raw.githubusercontent.com/yudisuryawan/yudisuryawan/output/snake.svg" alt="Snake animation" />
+
