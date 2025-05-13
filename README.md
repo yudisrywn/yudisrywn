@@ -3,7 +3,7 @@
 
 <div style="clear: both;"></div>
 
-<img height="305" src="https://media.giphy.com/media/EcnAlQcGnZq9y/giphy.gif" />
+<img src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif" width="400" />
 <div style="clear: both;"></div>
 
 # 💫 About Me:
