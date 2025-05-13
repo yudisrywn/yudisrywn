@@ -1,3 +1,4 @@
+![Yudi Suryawan](img/github-header-image.png)
 <img align="left" height="382" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBseDlkcGd6ZHQxcW9naGNwaGdvcDBjZ282ZHUxYnUybXZhaXlvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PamI2MtO1DU1a/giphy.gif"  />
 
 ###
