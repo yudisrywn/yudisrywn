@@ -1,11 +1,10 @@
 ![Yudi Suryawan](img/github-header-image.png)
-<br>
-<img align="left" height="382" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBseDlkcGd6ZHQxcW9naGNwaGdvcDBjZ282ZHUxYnUybXZhaXlvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PamI2MtO1DU1a/giphy.gif"  />
+<img height="382" src="https://media.giphy.com/media/PamI2MtO1DU1a/giphy.gif" />
 
-###
+<div style="clear: both;"></div>
 
-<br>
-<img align="right" height="305" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG4waDI2Zm5ibDZ3bzFxdXdsMWE1ZHBpbXp2amg5b2RsaGcwc2diMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnAlQcGnZq9y/giphy.gif"  />
+<img height="305" src="https://media.giphy.com/media/EcnAlQcGnZq9y/giphy.gif" />
+<div style="clear: both;"></div>
 
 # 💫 About Me:
 
