@@ -1,5 +1,3 @@
-![Yudi Suryawan](img/github-header-image.png)
-<img height="382" src="https://i.imgur.com/EwcOQGl.gif" />
 
 <div style="clear: both;"></div>
 
