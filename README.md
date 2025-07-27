@@ -23,7 +23,7 @@ Hi there, I'm Yudi Suryawan 👋<br>I'm a Informatics and Computer Engineering E
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,mongodb,mysql&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,express,mongodb,mysql&perline=3)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 
