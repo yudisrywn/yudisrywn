@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-Hi there, I'm Yudi Suryawan 👋<br>I'm a Informatics and Computer Engineering Education student at Semarang State University with a passion for problem-solving, technology, and mathematics. I’m diving into the world of back end development.<br>.<br>Exploring data structures and algorithms to solve complex problems<br><br>✨ Fun Fact:<br>I'm a big fan of logical games like Sudoku and enjoy challenges that let me think outside the box!
+<h1>Hi there, I'm Yudi Suryawan 👋</h1>
 
 ## 🌐 Socials:
 
@@ -30,14 +30,6 @@ Hi there, I'm Yudi Suryawan 👋<br>I'm a Informatics and Computer Engineering E
 ![](https://github-readme-stats.vercel.app/api?username=yudisrywn&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yudisrywn&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yudisrywn&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=yudisrywn&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 
