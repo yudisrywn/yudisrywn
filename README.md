@@ -25,6 +25,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,nodejs,express,mongodb,mysql,react&perline=3)](https://skillicons.dev)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=yudisrywn&theme=dracula&hide_border=false)<br/>
-
 <img src="https://raw.githubusercontent.com/yudisrywn/yudisrywn/output/snake.svg" alt="Snake animation" />
