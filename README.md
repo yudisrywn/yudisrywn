@@ -6,9 +6,7 @@
 </div>
 <div style="clear: both;"></div>
 
-# 💫 About Me:
-
-<h1>Hi there, I'm Yudi Suryawan 👋</h1>
+<h1>Ohayou Minna, I'm Yudi Suryawan 👋</h1>
 
 ## 🌐 Socials:
 
