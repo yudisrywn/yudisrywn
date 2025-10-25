@@ -23,4 +23,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,nodejs,express,react&perline=3)](https://skillicons.dev)
 
-<img src="https://raw.githubusercontent.com/yudisrywn/yudisrywn/output/pacman.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yudisrywn/yudisrywn/output/snake.svg" alt="Snake animation" />
