@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/yudi-suryawan-8a21a0287/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -21,6 +21,6 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,nodejs,express,react&perline=3)](https://skillicons.dev)
 
-<img src="https://raw.githubusercontent.com/yudisrywn/yudisrywn/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yudisrywn/yudisrywn/output/pacman.svg" alt="Snake animation" />
