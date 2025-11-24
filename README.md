@@ -9,6 +9,7 @@
 <h1>Ohayou Minna, I'm Yudi Suryawan 👋</h1>
 
 ## 🌐 Socials:
+This is my social media
 
 <!-- <div align="left">
   <a href="https://www.linkedin.com/in/yudi-suryawan-8a21a0287/" target="_blank">
