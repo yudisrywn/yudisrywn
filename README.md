@@ -10,17 +10,17 @@
 
 ## 🌐 Socials:
 
-<div align="left">
+<!-- <div align="left">
   <a href="https://www.linkedin.com/in/yudi-suryawan-8a21a0287/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/dsurya.one/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-</div>
+</div> -->
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,nodejs,express,react&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion&perline=1)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/yudisrywn/yudisrywn/output/snake.svg" alt="Snake animation" />
