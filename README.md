@@ -22,6 +22,6 @@ This is my social media
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind, javascript, typescript, nodejs, express, react, mysql, react&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind, javascript, typescript, nodejs, express, react, mysql, react&perline=1)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/yudisrywn/yudisrywn/output/snake.svg" alt="Snake animation" />
