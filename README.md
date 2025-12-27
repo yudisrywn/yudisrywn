@@ -25,6 +25,6 @@ This is my social media
 [![My Skills](https://skillicons.dev/icons?i=tailwind,javascript,typescript,nodejs,express,react,mysql,mongodb,python,laravel&perline=3)](https://skillicons.dev)
 
 # 🛠️ Tool Use:
-[![My Skills](https://skillicons.dev/icons?i=notion,postman,vscode,prisma,git,github&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion,postman,vscode,prisma,git,github,discord&perline=3)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/yudisrywn/yudisrywn/output/snake.svg" alt="Snake animation" />
