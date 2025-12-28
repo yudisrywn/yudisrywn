@@ -2,7 +2,7 @@
 <div style="clear: both;"></div>
 
 <div align="center">
-  <img height="382" src="https:///imgur.com/a/fAmGIOu"  />
+  <img height="382" src="[https:///imgur.com/a/fAmGIOu](https://tenor.com/en-GB/view/anime-gif-4933716246481518559)"  />
 </div>
 <div style="clear: both;"></div>
 
