@@ -2,7 +2,7 @@
 <div style="clear: both;"></div>
 
 <div align="center">
-  <img height="382" src="https://i.imgur.com/XBgxoqH.gif"  />
+  <img height="382" src="https:///imgur.com/a/fAmGIOu"  />
 </div>
 <div style="clear: both;"></div>
 
