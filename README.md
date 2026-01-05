@@ -1,4 +1,4 @@
-<samp style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">
+<samp style="font-family: 'Poppins', Tahoma, Geneva, Verdana, sans-serif; color: #333;">
 
 <div style="clear: both;"></div>
 
@@ -24,7 +24,7 @@ Learning through trial and error and discovering new things relieves boredom for
 [![My Skills](https://skillicons.dev/icons?i=tailwind,javascript,typescript,nodejs,express,react,mysql,mongodb,python,laravel&perline=3)](https://skillicons.dev)
 
 # 🛠️ Tool Use:
-[![My Skills](https://skillicons.dev/icons?i=notion,obsidian,postman,discord, tldraw&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion,obsidian,postman,discord&perline=3)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/yudisrywn/yudisrywn/output/snake.svg" alt="Snake animation" />
 
