@@ -1,4 +1,4 @@
-<samp style="font-family: 'Poppins', Tahoma, Geneva, Verdana, sans-serif; color: #333;">
+<samp style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">
 
 <div style="clear: both;"></div>
 
