@@ -19,12 +19,13 @@ I enjoy exploring the world of technology, trying new things, and experimenting 
 
 Learning through trial and error and discovering new things relieves boredom for me, and I'm always amazed at the brilliant and creative ideas behind existing technological systems.
 
-/* # 💻 Tech Stack:
+<!-- # 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,javascript,typescript,nodejs,express,react,mysql,mongodb,python,laravel&perline=3)](https://skillicons.dev)
 
 # 🛠️ Tool Use:
-[![My Skills](https://skillicons.dev/icons?i=notion,obsidian,postman,discord&perline=3)](https://skillicons.dev) */
+[![My Skills](https://skillicons.dev/icons?i=notion,obsidian,postman,discord&perline=3)](https://skillicons.dev)
+-->
 
 <img src="https://raw.githubusercontent.com/yudisrywn/yudisrywn/output/snake.svg" alt="Snake animation" />
 
