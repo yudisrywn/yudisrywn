@@ -10,7 +10,7 @@
 
 <h1>
     Ohayou <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="waving hand">, I am 
-    <b><a href="#" style="text-decoration: none; color: #0077cc;">Yudi Surya</a></b>
+    <b><a href="#" style="text-decoration: none; color: #0077cc;">Yudi Suryawan</a></b>
 </h1>
 
 ## About <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
