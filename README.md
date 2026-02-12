@@ -1,126 +1,120 @@
-<!-- 
-  ██╗   ██╗██╗   ██╗██████╗ ██╗
-  ╚██╗ ██╔╝██║   ██║██╔══██╗██║
-   ╚████╔╝ ██║   ██║██║  ██║██║
-    ╚██╔╝  ██║   ██║██║  ██║██║
-     ██║   ╚██████╔╝██████╔╝██║
-     ╚═╝    ╚═════╝ ╚═════╝ ╚═╝
--->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░  夜の東京  ·  ドラキュラ  ·  YUDI SURYAWAN          ░ -->
+<!-- ░  Tokyo Night × Dracula Dark × Anime                  ░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-  <!-- ✦ GATE — Dark Tokyo Night Header ✦ -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:0a0a2e,30:120458,50:1b1b4b,70:2d1654,85:6c3483,100:e84393&height=250&section=header&text=夜の東京%20—%20Yudi%20Suryawan&fontSize=42&fontColor=e2e2e2&animation=twinkling&fontAlignY=30&desc=✦%20Full-Stack%20Developer%20%E2%80%A2%20Night%20Coder%20%E2%80%A2%20Anime%20Soul%20✦&descSize=15&descAlignY=52&descColor=e84393" />
+  <!-- ═══ HEADER — Dracula Dark × Tokyo Night ═══ -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,20:282a36,40:44475a,60:6272a4,80:bd93f9,100:ff79c6&height=230&section=header&text=夜の東京%20%E2%80%94%20Yudi%20Suryawan&fontSize=44&fontColor=f8f8f2&animation=twinkling&fontAlignY=28&desc=%E2%9C%A6%20Full-Stack%20Developer%20%C2%B7%20Night%20Wanderer%20%C2%B7%20Anime%20Otaku%20%E2%9C%A6&descSize=14&descAlignY=52&descColor=bd93f9" />
 
-  <!-- ✦ Tokyo Night Skyline Anime ✦ -->
-  <img height="260" src="https://media1.tenor.com/m/mcIgFhOzeSAAAAAd/night-city-anime.gif" style="border-radius: 10px; border: 2px solid #2d1654;" />
+  <!-- ═══ ANIME SCENE — Dark City ═══ -->
+  <img height="250" src="https://media1.tenor.com/m/mcIgFhOzeSAAAAAd/night-city-anime.gif" style="border-radius: 8px; border: 2px solid #6272a4;" />
   &nbsp;
-  <img height="260" src="https://media1.tenor.com/m/JKD5Sms7b0sAAAAd/knight-princess.gif" style="border-radius: 10px; border: 2px solid #2d1654;" />
+  <img height="250" src="https://media1.tenor.com/m/RHgUyUYav98AAAAC/anime.gif" style="border-radius: 8px; border: 2px solid #6272a4;" />
+  &nbsp;
+  <img height="250" src="https://media1.tenor.com/m/JKD5Sms7b0sAAAAd/knight-princess.gif" style="border-radius: 8px; border: 2px solid #6272a4;" />
 
   <br><br>
 
-  <!-- ✦ Typing SVG — Mystical Tokyo ✦ -->
+  <!-- ═══ TYPING — Zen Dots Font ═══ -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Zen+Dots&weight=500&size=20&duration=3500&pause=1500&color=E84393&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=110&lines=%E2%9C%A6+%E5%A4%9C%E3%81%AE%E6%9D%B1%E4%BA%AC+—+Where+neon+lights+meet+dark+code+%E2%9C%A6;%E3%80%8C+Wandering+the+midnight+streets+of+the+digital+realm+%E3%80%8D;%E2%98%BD+From+Tokyo+nights+to+terminal+lights+%E2%98%BD;%E2%96%B6+Now+playing%3A+Lo-fi+beats+%26+keyboard+clicks..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Zen+Dots&weight=500&size=22&duration=3000&pause=1500&color=FF79C6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=120&lines=%E2%9C%A6+%E5%A4%9C%E3%81%AE%E6%9D%B1%E4%BA%AC+%E2%80%94+Where+neon+bleeds+into+the+dark+%E2%9C%A6;%E3%80%8C+Lost+in+code%2C+found+in+the+midnight+glow+%E3%80%8D;%E2%98%BD+The+terminal+never+sleeps+in+Tokyo+%E2%98%BD;%E2%96%B6+Now+loading%3A+another+late-night+commit..." alt="Typing SVG" />
   </a>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- ✦ CHAPTER I — THE WANDERER ✦ -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════ -->
+<!--             第一章  THE WANDERER                     -->
+<!-- ═════════════════════════════════════════════════════ -->
 
-<div>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> `第一章` — 放浪者 The Wanderer
 
-## 🌙 `第一章` — The Wanderer
+<img align="right" width="310" src="https://media1.tenor.com/m/IFslsFx51ccAAAAd/anime-girl-studying.gif" style="border-radius: 8px; border: 2px solid #6272a4;" />
 
-<img align="right" width="300" src="https://media1.tenor.com/m/IFslsFx51ccAAAAd/anime-girl-studying.gif" style="border-radius: 10px;" />
+```js
+// ─── wanderer.config.js ───────────────────────────
+const nightCoder = {
+  名前: "Yudi Suryawan",
+  異名: "夜のコーダー — The Night Coder",
+  所属: "Open Source Nomads",
+  領域: "Full-Stack Development",
+  
+  creed: [
+    "Explores tech like uncharted Tokyo alleyways",
+    "Debugs with the patience of a wandering ronin",
+    "Gets lost in elegant architectures like city lights",
+    "Midnight coding sessions under neon glow ☾",
+  ],
+  
+  loves: ["Clean Code", "Anime", "Dark Themes", "Rain on windows"],
+  
+  quote: "夜が明ける前に、コードは完成する",
+  // → Before the night ends, the code will be complete.
+};
 
-```
-┌─────────────────────────────────────────┐
-│                                         │
-│   ✦ 名前   Yudi Suryawan               │
-│   ✦ 異名   The Night Coder             │
-│   ✦ 所属   Open Source Wanderers        │
-│   ✦ 領域   Full-Stack Development       │
-│                                         │
-│   ─── 信条 CREED ───                    │
-│                                         │
-│   "In the neon-lit streets of Tokyo,    │
-│    between the hum of servers and       │
-│    the glow of monitors,               │
-│    I write my story in code."           │
-│                                         │
-│   ─── 特性 TRAITS ───                   │
-│                                         │
-│   ◈ Explores tech like uncharted       │
-│     alleyways of Shinjuku at night     │
-│   ◈ Debugs with the patience of a     │
-│     wandering ronin                    │
-│   ◈ Gets lost in elegant system        │
-│     designs like city lights           │
-│   ◈ Midnight coding sessions hit       │
-│     different under neon glow          │
-│                                         │
-└─────────────────────────────────────────┘
+module.exports = nightCoder;
 ```
 
-> *「 人は死んで初めて本当に生きることを知る...  
-> 　 コードも同じだ、壊れて初めて完全になる 」*
+> 「 *人は死んで初めて本当に生きることを知る...*
+> *コードも同じだ、壊れて初めて完全になる。* 」
 >
-> *"One truly learns to live only after dying...  
-> Code is the same — it becomes perfect only after breaking."*
+> *"One truly learns to live only after dying...*
+> *Code is the same — it becomes perfect only after breaking."*
 >
-> — Chronicles of the Night Coder
+> — <kbd>Chronicles of the Night Coder</kbd>
 
 <br clear="both">
 
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- ✦ CHAPTER II — THE ARMORY ✦ -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════ -->
+<!--             第二章  NOCTURNAL ARSENAL                -->
+<!-- ═════════════════════════════════════════════════════ -->
 
-## ⚔️ `第二章` — Nocturnal Arsenal
+## ⚔️ `第二章` — 武器庫 Nocturnal Arsenal
 
 <div align="center">
 
   <br>
 
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🗡️ 言語 — Incantations</h3>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php&theme=dark&perline=4" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <h3>🛡️ 構造 — Arcane Frameworks</h3>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind&theme=dark&perline=3" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>🔮 蓄積 — Dark Vaults</h3>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark&perline=4" />
-        </a>
-      </td>
-      <td align="center">
-        <h3>🌃 装備 — Night Gear</h3>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,linux,discord&theme=dark&perline=4" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <!-- Languages -->
+  <details open>
+    <summary><b>🗡️ 言語 Incantations — Languages</b></summary>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php&theme=dark&perline=4" />
+    </a>
+  </details>
+
+  <!-- Frameworks -->
+  <details open>
+    <summary><b>🛡️ 結界 Enchantments — Frameworks</b></summary>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind&theme=dark&perline=6" />
+    </a>
+  </details>
+
+  <!-- Database -->
+  <details open>
+    <summary><b>🔮 封印 Dark Vaults — Database</b></summary>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,firebase,supabase&theme=dark&perline=6" />
+    </a>
+  </details>
+
+  <!-- Tools -->
+  <details open>
+    <summary><b>🌃 装備 Night Gear — Tools</b></summary>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,linux,discord&theme=dark&perline=8" />
+    </a>
+  </details>
 
   <br>
 
@@ -128,42 +122,42 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- ✦ CHAPTER III — CHRONICLES ✦ -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════ -->
+<!--             第三章  NIGHT CHRONICLES                 -->
+<!-- ═════════════════════════════════════════════════════ -->
 
-## 🌃 `第三章` — Night Chronicles
+## 🌃 `第三章` — 年代記 Night Chronicles
 
 <div align="center">
 
-  <!-- Streak Stats -->
-  <img width="58%" src="https://github-readme-streak-stats.herokuapp.com/?user=yudisrywn&theme=tokyonight&hide_border=true&background=0d1117&stroke=2d1654&ring=e84393&fire=e84393&currStreakLabel=e84393&sideLabels=bb86fc&dates=8b949e&border=2d1654" />
+  <!-- Streak -->
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=yudisrywn&theme=dracula&hide_border=true&background=1a1b26&stroke=6272a4&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6&sideLabels=bd93f9&dates=6272a4" />
 
   <br><br>
 
-  <!-- Profile Summary -->
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yudisrywn&theme=tokyonight" />
+  <!-- Profile Cards — Dracula Theme -->
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yudisrywn&theme=dracula" />
   <br>
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yudisrywn&theme=tokyonight" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yudisrywn&theme=tokyonight&utcOffset=7" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yudisrywn&theme=dracula" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yudisrywn&theme=dracula&utcOffset=7" />
   <br>
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yudisrywn&theme=tokyonight" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yudisrywn&theme=tokyonight" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yudisrywn&theme=dracula" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yudisrywn&theme=dracula" />
 
   <br><br>
 
   <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=yudisrywn&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" width="85%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yudisrywn&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=5" width="85%" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- ✦ CHAPTER IV — SHADOW TRAIL ✦ -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════ -->
+<!--             第四章  SHADOW TRAIL                     -->
+<!-- ═════════════════════════════════════════════════════ -->
 
-## 🐉 `第四章` — Shadow Trail
+## 🐉 `第四章` — 影の道 Shadow Trail
 
 <div align="center">
   <picture>
@@ -175,67 +169,74 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- ✦ CHAPTER V — MIDNIGHT LOUNGE ✦ -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════ -->
+<!--             第五章  MIDNIGHT LOUNGE                  -->
+<!-- ═════════════════════════════════════════════════════ -->
 
-## 🎧 `第五章` — Midnight Lounge
+## 🎧 `第五章` — 深夜喫茶 Midnight Lounge
 
 <div align="center">
-  <img width="320" src="https://media1.tenor.com/m/LBBMIFIprvIAAAAd/anime-girl-headphones.gif" style="border-radius: 10px; border: 2px solid #2d1654;" />
+
+  <img width="300" src="https://media1.tenor.com/m/LBBMIFIprvIAAAAd/anime-girl-headphones.gif" style="border-radius: 8px; border: 2px solid #6272a4;" />
   <br><br>
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" alt="Spotify" />
+
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=1a1b26&interchange=true" alt="Spotify" />
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- ✦ EPILOGUE ✦ -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════ -->
+<!--             エピローグ  EPILOGUE                     -->
+<!-- ═════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=yudisrywn&style=for-the-badge&color=2d1654&label=☽+Travelers+who+passed+through" />
+  <!-- Anime Closing GIF -->
+  <img width="480" src="https://media1.tenor.com/m/0kkTaEPuxYAAAAAd/rain-anime.gif" style="border-radius: 8px; border: 2px solid #6272a4;" />
 
   <br><br>
 
-  <!-- Social Links — Dark Tokyo Style -->
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=yudisrywn&style=for-the-badge&color=282a36&label=%E2%98%BD+Travelers+who+passed+through&labelColor=1a1b26" />
+
+  <br><br>
+
+  <!-- Social — Dracula Dark Badges -->
   <a href="https://github.com/yudisrywn">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=bb86fc" />
+    <img src="https://img.shields.io/badge/GitHub-282a36?style=for-the-badge&logo=github&logoColor=bd93f9" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/yudisrywn">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=bb86fc" />
+    <img src="https://img.shields.io/badge/LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=8be9fd" />
   </a>
   &nbsp;
   <a href="https://instagram.com/yudisrywn">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e84393" />
+    <img src="https://img.shields.io/badge/Instagram-282a36?style=for-the-badge&logo=instagram&logoColor=ff79c6" />
   </a>
 
   <br><br>
 
   ```
-  ┌──────────────────────────────────────────────────────────┐
-  │                                                          │
-  │     ✦  夜が明ける前に、コードは完成する                     │
-  │                                                          │
-  │     "Before the night ends, the code will be complete."  │
-  │                                                          │
-  │     The streets of Tokyo grow quiet,                     │
-  │     but the terminal never sleeps.                       │
-  │     Between the neon reflections and                     │
-  │     the rain on the window,                              │
-  │     another commit is pushed to the void.                │
-  │                                                          │
-  │                          — 夜のコーダー  The Night Coder   │
-  │                                                          │
-  └──────────────────────────────────────────────────────────┘
+  ╔═══════════════════════════════════════════════════════════╗
+  ║                                                           ║
+  ║    ✦  雨の音を聞きながら、コードを書く                       ║
+  ║       "Writing code while listening to the rain."         ║
+  ║                                                           ║
+  ║    The streets of Tokyo grow quiet.                        ║
+  ║    Neon signs flicker in the puddles.                      ║
+  ║    But the terminal never sleeps —                         ║
+  ║    another commit pushed into the void,                   ║
+  ║    another story whispered to the dark.                    ║
+  ║                                                           ║
+  ║                          — 夜のコーダー  The Night Coder    ║
+  ║                                                           ║
+  ╚═══════════════════════════════════════════════════════════╝
   ```
 
   <br>
 
-  <!-- Footer -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e84393,15:6c3483,30:2d1654,50:1b1b4b,70:120458,85:0a0a2e,100:0d1117&height=160&section=footer&animation=twinkling" />
+  <!-- Footer — Dracula × Tokyo Night gradient -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,20:bd93f9,40:6272a4,60:44475a,80:282a36,100:1a1b26&height=150&section=footer&animation=twinkling" />
 
 </div>
