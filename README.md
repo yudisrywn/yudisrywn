@@ -103,7 +103,7 @@ module.exports = nightCoder;
   <!-- ═══ ACTIVITY GRAPH — 活動記録 ═══ -->
   <img src="https://img.shields.io/badge/📊_活動記録_ACTIVITY_LOG-1a1b26?style=for-the-badge" />
   <br><br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yudisrywn&theme=github" alt="yudisrywn"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yudisrywn&theme=dracula" alt="yudisrywn"/>
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:6272a4,100:1a1b26&height=2" width="80%" />
   <div align="center">
