@@ -20,19 +20,24 @@
 
 <img align="right" width="310" src="https://media1.tenor.com/m/IFslsFx51ccAAAAd/anime-girl-studying.gif" style="border-radius: 8px; border: 2px solid #6272a4;" />
 
-```
+```javascript
+// nightCoder.js — 夜のコーダー
+
 const nightCoder = {
-  名前: "Yudi Suryawan"
-  クラス: "Full-Stack Developer"
-  レベル: "Always Learning ∞"
-  特技:
-  - "Exploring new tech like opening a loot box"
-  - "Trial & error until it works (or explodes)"
-  - "Getting amazed by brilliant system designs"
-好きなもの: Clean Code, Anime, Late night coding
+  名前:     "Yudi Suryawan",
+  クラス:   "Full-Stack Developer",
+  レベル:   "Always Learning ∞",
+
+  特技: [
+    "Exploring new tech like opening a loot box",
+    "Trial & error until it works (or explodes)",
+    "Getting amazed by brilliant system designs",
+  ],
+
+  好きなもの: ["Clean Code", "Anime", "Late night coding"],
 
   quote: "夜が明ける前に、コードは完成する",
-  → Before the night ends, the code will be complete.
+  // → Before the night ends, the code will be complete.
 };
 
 module.exports = nightCoder;
@@ -98,7 +103,7 @@ module.exports = nightCoder;
   <!-- ═══ ACTIVITY GRAPH — 活動記録 ═══ -->
   <img src="https://img.shields.io/badge/📊_活動記録_ACTIVITY_LOG-1a1b26?style=for-the-badge" />
   <br><br>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yudisrywn&bg_color=1a1b26&color=bd93f9&line=ff79c6&point=f8f8f2&area_color=44475a&area=true&hide_border=true&custom_title=%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%20%E2%80%94%20Contribution%20Activity" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yudisrywn&theme=github" alt="yudisrywn"/>
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:6272a4,100:1a1b26&height=2" width="80%" />
   <div align="center">
