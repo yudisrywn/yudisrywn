@@ -78,45 +78,77 @@ module.exports = nightCoder;
 
 <div align="center">
 
+  <!-- Section Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:6272a4,100:1a1b26&height=2" width="80%" />
+
+  <br><br>
+
+  <!-- ═══ LANGUAGES ═══ -->
+  <img src="https://img.shields.io/badge/🗡️_言語_INCANTATIONS-1a1b26?style=for-the-badge&logoColor=ff79c6" />
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php&theme=dark&perline=4" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-★★★★★-f1e05a?style=flat-square&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/TypeScript-★★★★☆-3178c6?style=flat-square&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/Python-★★★★☆-3572a5?style=flat-square&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/PHP-★★★★☆-4f5d95?style=flat-square&labelColor=282a36" />
+
+  <br><br>
+
+  <!-- ═══ FRAMEWORKS ═══ -->
+  <img src="https://img.shields.io/badge/🛡️_結界_ENCHANTMENTS-1a1b26?style=for-the-badge&logoColor=bd93f9" />
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind&theme=dark&perline=6" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/React-★★★★★-61dafb?style=flat-square&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/Next.js-★★★★☆-f8f8f2?style=flat-square&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/Node.js-★★★★★-339933?style=flat-square&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/Express-★★★★☆-f8f8f2?style=flat-square&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/Laravel-★★★★☆-ff2d20?style=flat-square&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/Tailwind-★★★★★-06b6d4?style=flat-square&labelColor=282a36" />
+
+  <br><br>
+
+  <!-- ═══ DATABASE ═══ -->
+  <img src="https://img.shields.io/badge/🔮_封印_DARK_VAULTS-1a1b26?style=for-the-badge&logoColor=8be9fd" />
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,firebase,supabase&theme=dark&perline=6" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-★★★★☆-4479a1?style=flat-square&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/MongoDB-★★★★☆-47a248?style=flat-square&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/PostgreSQL-★★★★☆-4169e1?style=flat-square&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/Redis-★★★☆☆-dc382d?style=flat-square&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/Firebase-★★★★☆-ffca28?style=flat-square&labelColor=282a36" />
+  <img src="https://img.shields.io/badge/Supabase-★★★☆☆-3ecf8e?style=flat-square&labelColor=282a36" />
+
+  <br><br>
+
+  <!-- ═══ TOOLS ═══ -->
+  <img src="https://img.shields.io/badge/🌃_装備_NIGHT_GEAR-1a1b26?style=for-the-badge&logoColor=50fa7b" />
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,linux,discord&theme=dark&perline=8" />
+  </a>
+
+  <br><br>
+
+  <!-- ═══ CURRENTLY LEARNING ═══ -->
+  <img src="https://img.shields.io/badge/📖_修行中_NOW_LEARNING-1a1b26?style=for-the-badge&logoColor=ffb86c" />
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,rust,graphql,kubernetes&theme=dark&perline=4" />
+  </a>
+
   <br>
 
-  <!-- Languages -->
-  <details open>
-    <summary><b>🗡️ 言語 Incantations — Languages</b></summary>
-    <br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php&theme=dark&perline=4" />
-    </a>
-  </details>
-
-  <!-- Frameworks -->
-  <details open>
-    <summary><b>🛡️ 結界 Enchantments — Frameworks</b></summary>
-    <br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind&theme=dark&perline=6" />
-    </a>
-  </details>
-
-  <!-- Database -->
-  <details open>
-    <summary><b>🔮 封印 Dark Vaults — Database</b></summary>
-    <br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,firebase,supabase&theme=dark&perline=6" />
-    </a>
-  </details>
-
-  <!-- Tools -->
-  <details open>
-    <summary><b>🌃 装備 Night Gear — Tools</b></summary>
-    <br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,linux,discord&theme=dark&perline=8" />
-    </a>
-  </details>
-
-  <br>
+  <!-- Section Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:6272a4,100:1a1b26&height=2" width="80%" />
 
 </div>
 
@@ -130,12 +162,38 @@ module.exports = nightCoder;
 
 <div align="center">
 
-  <!-- Streak -->
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=yudisrywn&theme=dracula&hide_border=true&background=1a1b26&stroke=6272a4&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6&sideLabels=bd93f9&dates=6272a4" />
+  <!-- Section Header -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:6272a4,100:1a1b26&height=2" width="80%" />
+
+  <br>
+
+  <!-- ═══ STREAK — 連続記録 ═══ -->
+  <img src="https://img.shields.io/badge/🔥_連続記録_STREAK_RECORD-1a1b26?style=for-the-badge" />
+  <br><br>
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=yudisrywn&theme=dracula&hide_border=true&background=1a1b26&stroke=6272a4&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6&sideLabels=bd93f9&dates=6272a4" />
 
   <br><br>
 
-  <!-- Profile Cards — Dracula Theme -->
+  <!-- ═══ STATS OVERVIEW — 戦績 ═══ -->
+  <img src="https://img.shields.io/badge/⚔️_戦績_BATTLE_OVERVIEW-1a1b26?style=for-the-badge" />
+  <br><br>
+
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=yudisrywn&show_icons=true&theme=dracula&bg_color=1a1b26&hide_border=true&icon_color=ff79c6&title_color=bd93f9&text_color=f8f8f2&ring_color=ff79c6&include_all_commits=true&count_private=true" />
+  &nbsp;
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudisrywn&layout=donut-vertical&theme=dracula&bg_color=1a1b26&hide_border=true&title_color=bd93f9&text_color=f8f8f2&langs_count=6" />
+
+  <br><br>
+
+  <!-- ═══ ACTIVITY GRAPH — 活動記録 ═══ -->
+  <img src="https://img.shields.io/badge/📊_活動記録_ACTIVITY_LOG-1a1b26?style=for-the-badge" />
+  <br><br>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yudisrywn&bg_color=1a1b26&color=bd93f9&line=ff79c6&point=f8f8f2&area_color=44475a&area=true&hide_border=true&custom_title=%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%20%E2%80%94%20Contribution%20Activity" />
+
+  <br><br>
+
+  <!-- ═══ PROFILE DETAILS — 詳細 ═══ -->
+  <img src="https://img.shields.io/badge/🌙_詳細_DETAILED_RECORDS-1a1b26?style=for-the-badge" />
+  <br><br>
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yudisrywn&theme=dracula" />
   <br>
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yudisrywn&theme=dracula" />
@@ -146,8 +204,15 @@ module.exports = nightCoder;
 
   <br><br>
 
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=yudisrywn&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=5" width="85%" />
+  <!-- ═══ TROPHIES — 勲章 ═══ -->
+  <img src="https://img.shields.io/badge/🏆_勲章_TROPHY_HALL-1a1b26?style=for-the-badge" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=yudisrywn&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=5" width="90%" />
+
+  <br>
+
+  <!-- Section Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:6272a4,100:1a1b26&height=2" width="80%" />
 
 </div>
 
