@@ -1,8 +1,5 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,20:282a36,40:44475a,60:6272a4,80:bd93f9,100:ff79c6&height=230&section=header&text=夜の東京%20%E2%80%94%20Yudi%20Suryawan&fontSize=44&fontColor=f8f8f2&animation=twinkling&fontAlignY=28&desc=%E2%9C%A6%20Full-Stack%20Developer%20%C2%B7%20Night%20Wanderer%20%C2%B7%20Physics%20Enthusiast%20%E2%9C%A6&descSize=14&descAlignY=52&descColor=bd93f9" />
-
-  <img height="250" src="https://media1.tenor.com/m/mcIgFhOzeSAAAAAd/night-city-anime.gif" style="border-radius: 8px; border: 2px solid #6272a4;" />
-  &nbsp;
   <img height="250" src="https://media1.tenor.com/m/RHgUyUYav98AAAAC/anime.gif" style="border-radius: 8px; border: 2px solid #6272a4;" />
   &nbsp;
   <img height="250" src="https://media1.tenor.com/m/JKD5Sms7b0sAAAAd/knight-princess.gif" style="border-radius: 8px; border: 2px solid #6272a4;" />
@@ -17,12 +14,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> `第一章` — 放浪者 The Wanderer
-
-<img align="right" width="310" src="https://media1.tenor.com/m/IFslsFx51ccAAAAd/anime-girl-studying.gif" style="border-radius: 8px; border: 2px solid #6272a4;" />
-
 ```javascript
-// nightCoder.js — 夜のコーダー
-
 const nightCoder = {
   名前:     "Yudi Suryawan",
   クラス:   "Full-Stack Developer",
