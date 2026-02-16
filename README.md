@@ -76,7 +76,7 @@ module.exports = nightCoder;
   <img src="https://img.shields.io/badge/🌃_装備_NIGHT_GEAR-1a1b26?style=for-the-badge&logoColor=50fa7b" />
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,discord&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,discord&theme=dark&perline=8" />
   </a>
 
   <br><br>
