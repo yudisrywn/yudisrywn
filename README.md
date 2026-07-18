@@ -45,51 +45,6 @@ module.exports = nightCoder;
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⚔️ Skills
-
-<div align="center">
-
-  <!-- Section Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:6272a4,100:1a1b26&height=2" width="80%" />
-
-  <br><br>
-  <img src="https://img.shields.io/badge/🗡️_言語_INCANTATIONS-1a1b26?style=for-the-badge&logoColor=ff79c6" />
-  <br><br>
-  <a href="https://i.icoziv.workers.dev">
-    <img src="https://i.icoziv.workers.dev/icons?i=javascript,typescript,python,php,n8n&theme=dark&perline=4" />
-  </a>
-  <br><br>
-
-  <img src="https://img.shields.io/badge/🛡️_結界_ENCHANTMENTS-1a1b26?style=for-the-badge&logoColor=bd93f9" />
-  <br><br>
-  <a href="https://i.icoziv.workers.dev">
-    <img src="https://i.icoziv.workers.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind&theme=dark&perline=6" />
-  </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/🔮_封印_DARK_VAULTS-1a1b26?style=for-the-badge&logoColor=8be9fd" />
-  <br><br>
-  <a href="https://i.icoziv.workers.dev">
-    <img src="https://i.icoziv.workers.dev/icons?i=mysql,mongodb&theme=dark&perline=6" />
-  </a>
-  <br><br>
-
-  <img src="https://img.shields.io/badge/🌃_装備_NIGHT_GEAR-1a1b26?style=for-the-badge&logoColor=50fa7b" />
-  <br><br>
-  <a href="https://i.icoziv.workers.dev">
-    <img src="https://i.icoziv.workers.dev/icons?i=git,github,vscode,postman,discord,notion&theme=dark&perline=8" />
-  </a>
-
-  <br><br>
-  <img src="https://img.shields.io/badge/📖_修行中_NOW_LEARNING-1a1b26?style=for-the-badge&logoColor=ffb86c" />
-  <br><br>
-  <a href="https://i.icoziv.workers.dev">
-    <img src="https://i.icoziv.workers.dev/icons?i=docker,redis&theme=dark&perline=4" />
-  </a>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:6272a4,100:1a1b26&height=2" width="80%" />
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <div align="center">
   <!-- ═══ ACTIVITY GRAPH — 活動記録 ═══ -->
@@ -99,6 +54,6 @@ module.exports = nightCoder;
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:6272a4,100:1a1b26&height=2" width="80%" />
   <div align="center">
-  <img src="https://raw.githubusercontent.com/yudisrywn/yudisrywn/output/snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/yudisuryawan7/yudisrywn/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
 </div>
