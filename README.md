@@ -17,7 +17,7 @@
 ```javascript
 const nightCoder = {
   名前:     "Yudi Suryawan",
-  クラス:   "Full-Stack Developer",
+  クラス:   "Full-Stack Developer and Machine Learning Enthusiast",
   レベル:   "Always Learning ∞",
 
   特技: [
