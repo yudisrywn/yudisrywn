@@ -42,10 +42,6 @@ module.exports = nightCoder;
 > — <kbd>~~Lelouch~~ Every developer, probably</kbd>
 
 <br clear="both">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <div align="center">
   <!-- ═══ ACTIVITY GRAPH — 活動記録 ═══ -->
   <img src="https://img.shields.io/badge/📊_活動記録_ACTIVITY_LOG-1a1b26?style=for-the-badge" />
