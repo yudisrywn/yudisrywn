@@ -16,17 +16,10 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> `第一章` — 放浪者 The Wanderer
 ```javascript
 const nightCoder = {
-  名前:     "Yudi Suryawan",
-  クラス:   "Full-Stack Developer and Machine Learning Enthusiast",
-  レベル:   "Always Learning ∞",
-
-  特技: [
-    "Exploring new tech like opening a loot box",
-    "Trial & error until it works (or explodes)",
-    "Getting amazed by brilliant system designs",
-  ],
-
-  好きなもの: ["Clean Code", "Anime", "Late night coding"],
+  name:     "Yudi Suryawan",
+  role:   "Full-Stack Developer and Machine Learning Enthusiast",
+  motto:   "Always Learning ∞",
+  hobby: ["Anime", "Late night coding"],
 
   quote: "夜が明ける前に、コードは完成する",
   // → Before the night ends, the code will be complete.
@@ -51,5 +44,6 @@ module.exports = nightCoder;
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:6272a4,100:1a1b26&height=2" width="80%" />
   <div align="center">
   <img src="https://raw.githubusercontent.com/yudisuryawan7/yudisrywn/output/snake.svg" alt="Snake animation" width="100%" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yudisuryawan7&layout=compact&layout=compact&theme=dracula"/>
 </div>
 </div>
