@@ -41,9 +41,7 @@ module.exports = nightCoder;
   <br><br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yudisuryawan7&theme=dracula" alt="yudisuryawan"/>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:6272a4,100:1a1b26&height=2" width="80%" />
   <div align="center">
   <img src="https://raw.githubusercontent.com/yudisuryawan7/yudisrywn/output/snake.svg" alt="Snake animation" width="100%" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yudisuryawan7&layout=compact&layout=compact&theme=dracula"/>
 </div>
 </div>
